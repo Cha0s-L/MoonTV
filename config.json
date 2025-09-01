@@ -140,6 +140,12 @@
       "api": "https://kuyunzy1.com/api.php/provide/vod",
       "name": "酷云资源站",
       "detail": "https://kuyunzy1.com"
+    },
+    "kkys02": {
+      "api": "https://www.kkys02.com/api.php/provide/vod",
+      "name": "KKYS资源站",
+      "detail": "https://www.kkys02.com"
     }
   }
 }
+

@@ -94,7 +94,38 @@
       "api": "https://zuidazy2.com/api.php/provide/vod",
       "name": "ZUIDA资源站",
       "detail": "https://zuidazy2.com"
+    },
+     "cokemv": {
+      "api": "https://cokemv.me/api.php/provide/vod",
+      "name": "Cokemv资源站",
+      "detail": "https://cokemv.me"
+    },
+    "88k": {
+      "api": "https://88k.cc/api.php/provide/vod",
+      "name": "88看剧资源站",
+      "detail": "https://88k.cc"
+    },
+    "555dy": {
+      "api": "https://www.555dy.app/api.php/provide/vod",
+      "name": "555电影资源站",
+      "detail": "https://www.555dy.app"
+    },
+    "subo": {
+      "api": "https://subo988.com/api.php/provide/vod",
+      "name": "速播资源站",
+      "detail": "https://subo988.com"
+    },
+    "xqzy": {
+      "api": "https://xqzyapi.com/api.php/provide/vod",
+      "name": "小强资源站",
+      "detail": "https://xqzyapi.com"
+    },
+    "kuyun": {
+      "api": "https://kuyunzy1.com/api.php/provide/vod",
+      "name": "酷云资源站",
+      "detail": "https://kuyunzy1.com"
     }
   }
 
 }
+

@@ -79,6 +79,22 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+    },
+    "okzy": {
+      "api": "https://okzy.org/api.php/provide/vod",
+      "name": "OK资源网",
+      "detail": "https://okzy.org"
+    },
+    "libvio": {
+      "api": "https://www.libvio.me/api.php/provide/vod",
+      "name": "LIBVIO资源站",
+      "detail": "https://www.libvio.me"
+    },
+    "zuidazy": {
+      "api": "https://zuidazy2.com/api.php/provide/vod",
+      "name": "ZUIDA资源站",
+      "detail": "https://zuidazy2.com"
     }
   }
+
 }
